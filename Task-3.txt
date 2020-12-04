@@ -6,3 +6,4 @@ Eggs
 Cheese
 Pasta
 Olive oil
+Corn flakes
