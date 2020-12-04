@@ -1,0 +1,8 @@
+Grocery List:
+
+Rice
+Cereal
+Eggs
+Cheese
+Pasta
+
