@@ -5,7 +5,6 @@ Cereal
 Eggs
 Cheese
 Pasta
-Olive oil
-Chocolates
+Chocolate
 Butter
 
